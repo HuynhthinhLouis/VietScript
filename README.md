@@ -1,2 +1,2 @@
 # VietScript
-An IDE that uses python based coding language almost fully in Vietnamese
+An IDE that uses the Python-based programming language is almost entirely in Vietnamese.
